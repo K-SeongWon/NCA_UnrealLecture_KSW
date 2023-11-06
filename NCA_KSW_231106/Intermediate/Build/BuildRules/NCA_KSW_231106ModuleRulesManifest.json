@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\NCA\\NCA_UnrealLecture_KSW\\NCA_KSW_231106\\Source\\NCA_KSW_231106\\NCA_KSW_231106.Build.cs",
+		"C:\\Users\\NCA\\NCA_UnrealLecture_KSW\\NCA_KSW_231106\\Source\\NCA_KSW_231106.Target.cs",
+		"C:\\Users\\NCA\\NCA_UnrealLecture_KSW\\NCA_KSW_231106\\Source\\NCA_KSW_231106Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
